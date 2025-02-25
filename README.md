@@ -68,39 +68,15 @@ I believe that collaboration and knowledge sharing are the keys to progress. I l
   <a href="https://tailwindcss.com" target="_blank"> 
     <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&amp;logoColor=white">
   </a>
-</p>
-<h3 id="️-cloud">☁️ Cloud</h3>
-<p align="left"> 
-  <a href="https://aws.amazon.com/" target="_blank"> 
-   <img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-aws&amp;logoColor=white">
-  </a>   
-  <a href="https://azure.microsoft.com/" target="_blank">
-    <img alt="Azure" src="https://img.shields.io/badge/Azure-%230072C6.svg?logo=microsoft-azure&amp;logoColor=white">
-  </a> 
- <a href="https://cloud.google.com/" target="_blank"> 
-    <img alt="Google Cloud" src="https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?logo=google-cloud&amp;logoColor=white">
-  </a>
-</p>
+
 <h3 id="️-devops">♾️ DevOps</h3>
 <p align="left"> 
-  <a href="https://www.docker.com/" target="_blank"> 
-   <img alt="Docker" src="https://img.shields.io/badge/Docker-%230db7ed.svg?logo=docker&amp;logoColor=white">
-  </a>   
-  <a href="https://kubernetes.io/" target="_blank">
-    <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-%23326ce5.svg?logo=kubernetes&amp;logoColor=white">
-  </a> 
- <a href="https://bitbucket.org/" target="_blank"> 
-    <img alt="Bitbucket" src="https://img.shields.io/badge/Bitbucket-%230047B3.svg?logo=bitbucket&amp;logoColor=white">
-  </a>
- <a href="https://git-scm.com/" target="_blank"> 
+  <a href="https://git-scm.com/" target="_blank"> 
     <img alt="Git" src="https://img.shields.io/badge/Git-%23F05033.svg?logo=git&amp;logoColor=white">
   </a>
- <a href="https://about.gitlab.com/" target="_blank"> 
-    <img alt="GitLab" src="https://img.shields.io/badge/GitLab-%23181717.svg?logo=gitlab&amp;logoColor=white">
-  </a>
- <a href="https://github.com/" target="_blank"> 
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&amp;logoColor=white">
-  </a>
+  <a href="https://github.com/" target="_blank"> 
+    <img alt="GitHub" src="https://img.shields.io/b
+
 </p>
 <h3 id="-databases">💾 Databases</h3>
 <p align="left"> 
@@ -123,57 +99,20 @@ I believe that collaboration and knowledge sharing are the keys to progress. I l
     <img alt="Firebase" src="https://img.shields.io/badge/Firebase-%23FFCA28.svg?logo=Firebase&amp;logoColor=white">
   </a>
 </p>
-<h3 id="️-operating-systems">🎛️ Operating Systems</h3>
-<p align="left"> 
-  <a href="https://www.centos.org/" target="_blank"> 
-   <img alt="CentOS" src="https://img.shields.io/badge/CentOS-002260?logo=centos&amp;logoColor=F0F0F0">
-  </a>   
-  <a href="https://www.debian.org/" target="_blank">
-    <img alt="Debian" src="https://img.shields.io/badge/Debian-D70A53?logo=debian&amp;logoColor=white">
-  </a> 
- <a href="https://www.kali.org/" target="_blank"> 
-    <img alt="Kali Linux" src="https://img.shields.io/badge/Kali%20Linux-268BEE?logo=kalilinux&amp;logoColor=white">
-  </a>
-  <a href="https://www.linux.org/" target="_blank"> 
-    <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?logo=linux&amp;logoColor=black">
-  </a>
- <a href="https://ubuntu.com/" target="_blank"> 
-    <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&amp;logoColor=white">
-  </a>
- <a href="https://www.microsoft.com/en-us/windows/" target="_blank"> 
-    <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&amp;logoColor=white">
-  </a>
-</p>
+
 <h3 id="-ideseditors">💻 IDEs/Editors</h3>
 <p align="left"> 
-  <a href="https://code.visualstudio.com/" target="_blank"> 
-   <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&amp;logoColor=white">
-  </a>   
-  <a href="https://developer.android.com/studio" target="_blank">
-    <img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?logo=android-studio&amp;logoColor=white">
-  </a> 
- <a href="https://www.qt.io/" target="_blank"> 
-    <img alt="Qt" src="https://img.shields.io/badge/Qt-%23217346.svg?logo=Qt&amp;logoColor=white">
-  </a>
- <a href="https://www.rstudio.com/" target="_blank"> 
-    <img alt="RStudio" src="https://img.shields.io/badge/RStudio-75AADB.svg?logo=tailwind-css&amp;logoColor=white">
-  </a>
- <a href="https://www.jetbrains.com/idea/" target="_blank"> 
-    <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?logo=intellij-idea&amp;logoColor=white">
-  </a>
- <a href="https://netbeans.apache.org/" target="_blank"> 
-    <img alt="NetBeans IDE" src="https://img.shields.io/badge/NetBeans%20IDE-1B6AC6.svg?logo=apache-netbeans-ide&amp;logoColor=white">
-  </a>
- <a href="https://www.jetbrains.com/pycharm/" target="_blank"> 
-    <img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-143?logo=pycharm&amp;logoColor=black&amp;color=black&amp;labelColor=green">
-  </a>
- <a href="https://www.sublimetext.com/" target="_blank"> 
-    <img alt="Sublime Text" src="https://img.shields.io/badge/Sublime%20Text-%23575757.svg?logo=sublime-text&amp;logoColor=important">
-  </a>
   <a href="https://visualstudio.microsoft.com/" target="_blank"> 
     <img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?logo=visual-studio&amp;logoColor=white">
   </a>
+  <a href="https://netbeans.apache.org/" target="_blank"> 
+    <img alt="NetBeans IDE" src="https://img.shields.io/badge/NetBeans%20IDE-1B6AC6.svg?logo=apache-netbeans-ide&amp;logoColor=white">
+  </a>
+  <a href="https://www.jetbrains.com/idea/" target="_blank"> 
+    <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?logo=intellij-idea&amp;logoColor=white">
+  </a>
 </p>
+
 <h3 id="-others">🥅 Others:</h3>
 <p>
 <a href="https://www.office.com" target="_blank"><img alt="Microsoft Office" src="https://img.shields.io/badge/Microsoft_Office-D83B01?logo=microsoft-office&amp;logoColor=white"></a>
@@ -181,11 +120,11 @@ I believe that collaboration and knowledge sharing are the keys to progress. I l
 <a href="https://www.canva.com" target="_blank"><img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?logo=Canva&amp;logoColor=white"></a>
 </p>
 
-<br> 
-<br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yourusername&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
 </div>
 <br>
 
