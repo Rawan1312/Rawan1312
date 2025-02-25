@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Rawan Alghamdi  </h2>
+<h2 align="left">Hi 👋! Rawan Alghamdi  </h2>
 <br>
 <br>
 <h2 id="--about-me"><img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25">  <b>About Me</b></h2>
@@ -8,10 +8,10 @@ I believe that collaboration and knowledge sharing are the keys to progress. I l
 <br>
 <ul>
 <li>
-<p>- 🔭 I'm not working on anything specific at the moment, but I'm always open to new challenges! 😉 </p>
+<p>🔭 I'm not working on anything specific at the moment, but I'm always open to new challenges! 😉 </p>
 </li>
 <li>
-<p> 👯 I'm looking forward to collaborating on **software development and networking projects.</p>
+<p> 👯 I'm looking forward to collaborating on software development and networking projects.</p>
 </li>
 <li>
 <p>🌱 I'm constantly learning and improving my skills in modern technologies.</p>
@@ -22,16 +22,7 @@ I believe that collaboration and knowledge sharing are the keys to progress. I l
 </ul>
 
 ###
-<h2 id="-connect-with-me"><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> <b>Connect with Me</b></h2>
-<br>
-<p align="center"><!-----Social Accounts------>
-</p><p align="center">
 
-  <a href="http://linkedin.com/in/rawan-alrifai-225a16316">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-</div>
 
 ###
 
@@ -228,7 +219,17 @@ I believe that collaboration and knowledge sharing are the keys to progress. I l
   <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
+###
+<h2 id="-connect-with-me"><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> <b>Connect with Me</b></h2>
+<br>
+<p align="center"><!-----Social Accounts------>
+</p><p align="center">
 
+  <a href="http://linkedin.com/in/rawan-alrifai-225a16316">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+</div>
 ###
 
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
