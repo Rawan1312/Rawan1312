@@ -75,7 +75,10 @@ I believe that collaboration and knowledge sharing are the keys to progress. I l
     <img alt="Git" src="https://img.shields.io/badge/Git-%23F05033.svg?logo=git&amp;logoColor=white">
   </a>
   <a href="https://github.com/" target="_blank"> 
-    <img alt="GitHub" src="https://img.shields.io/b
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&amp;logoColor=white">
+  </a>
+</p>
+
 
 </p>
 <h3 id="-databases">💾 Databases</h3>
