@@ -2,20 +2,22 @@
 <br>
 <br>
 <h2 id="--about-me"><img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25">  <b>About Me</b></h2>
-<p>I am Al-Amin, a student and tech enthusiast with a passion for software development. Constantly exploring new technologies and embracing challenges, I thrive in the dynamic world of technology. With a focus on collaboration and community support, I strive to inspire others to push their boundaries and pursue greatness. Let’s create innovative solutions together!</p>
+<p>I am Rawan, a Computer Science graduate and a passionate technology enthusiast with a strong interest in software development and networking. I am always eager to explore new technologies and embrace challenges, believing that continuous learning is the key to success in the fast-evolving tech world. I strive to enhance my skills and contribute to building innovative solutions that make a difference.
+
+I believe that collaboration and knowledge sharing are the keys to progress. I love inspiring others to explore their full potential and push the boundaries of creativity. Let’s grow together and create smart and impactful technological solutions! 🚀💡</p>
 <br>
 <ul>
 <li>
-<p>🔭 I’m currently working on something cool 😉</p>
+<p>- 🔭 I'm not working on anything specific at the moment, but I'm always open to new challenges! 😉 </p>
 </li>
 <li>
-<p>👯 I’m looking forward to collaborate on python projects.</p>
+<p> 👯 I'm looking forward to collaborating on **software development and networking projects.</p>
 </li>
 <li>
-<p>🌱 Learning about Computer Vision and Machine Learning stuff</p>
+<p>🌱 I'm constantly learning and improving my skills in modern technologies.</p>
 </li>
 <li>
-<p>💬 Ask me about anything, I am happy to help, only if the ball is in my court!😉</p>
+<p>💬 Feel free to ask me anything—I’ll help as much as I can! 😊</p>
 </li>
 </ul>
 
