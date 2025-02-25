@@ -83,25 +83,17 @@ I believe that collaboration and knowledge sharing are the keys to progress. I l
 </p>
 <h3 id="-databases">💾 Databases</h3>
 <p align="left"> 
+  <a href="https://supabase.com/" target="_blank"> 
+    <img alt="Supabase" src="https://img.shields.io/badge/Supabase-%237747FF.svg?logo=supabase&amp;logoColor=white">
+  </a>   
   <a href="https://www.mysql.com/" target="_blank"> 
-   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?logo=mysql&amp;logoColor=white">
-  </a>   
-   <a href="https://www.mongodb.com/" target="_blank"> 
-   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&amp;logoColor=white">
-  </a>  
-   <a href="https://www.sqlite.org/" target="_blank"> 
-   <img alt="SQLite" src="https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&amp;logoColor=white">
-  </a>   
-  <a href="https://aws.amazon.com/dynamodb/" target="_blank">
-    <img alt="Amazon DynamoDB" src="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?logo=Amazon%20DynamoDB&amp;logoColor=white">
-  </a> 
- <a href="https://www.microsoft.com/en-us/sql-server/" target="_blank"> 
-    <img alt="Microsoft SQL Server" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?logo=microsoft%20sql%20server&amp;logoColor=white">
+    <img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?logo=mysql&amp;logoColor=white">
   </a>
- <a href="https://firebase.google.com/" target="_blank"> 
-    <img alt="Firebase" src="https://img.shields.io/badge/Firebase-%23FFCA28.svg?logo=Firebase&amp;logoColor=white">
+  <a href="https://www.postgresql.org/" target="_blank">
+    <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?logo=postgresql&amp;logoColor=white">
   </a>
 </p>
+
 
 <h3 id="-ideseditors">💻 IDEs/Editors</h3>
 <p align="left"> 
