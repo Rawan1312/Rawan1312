@@ -44,16 +44,26 @@ I believe that collaboration and knowledge sharing are the keys to progress. I l
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?logo=javascript&amp;logoColor=black">
   </a>
-  <a href="https://www.python.org" target="_blank">
-    <img alt="Python" src="https://img.shields.io/badge/Python-%2314354C.svg?logo=python&amp;logoColor=white">
-  </a>
   <a href="https://www.php.net/" target="_blank">
     <img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&amp;logoColor=white">
   </a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank">
-    <img alt="Shell Script" src="https://img.shields.io/badge/Shell%20Script-%23121011.svg?logo=gnu-bash&amp;logoColor=white">
+  <a href="https://www.typescriptlang.org/" target="_blank">
+    <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-%23282333.svg?logo=typescript&amp;logoColor=white">
+  </a>
+  <a href="https://reactjs.org/" target="_blank">
+    <img alt="React" src="https://img.shields.io/badge/React-%2361DAFB.svg?logo=react&amp;logoColor=white">
+  </a>
+  <a href="https://nodejs.org/" target="_blank">
+    <img alt="Node.js" src="https://img.shields.io/badge/Node.js-%23339933.svg?logo=node.js&amp;logoColor=white">
+  </a>
+  <a href="https://dotnet.microsoft.com/" target="_blank">
+    <img alt=".NET" src="https://img.shields.io/badge/.NET-%23246F71.svg?logo=.net&amp;logoColor=white">
+  </a>
+  <a href="https://dotnet.microsoft.com/" target="_blank">
+    <img alt="C#" src="https://img.shields.io/badge/C%23-%23239120.svg?logo=csharp&amp;logoColor=white">
   </a>
 </p>
+
 <h3 id="-frontend-development">📋 Frontend Development</h3>
 <p align="left"> 
   <a href="https://www.w3.org/html/" target="_blank"> 
@@ -68,16 +78,9 @@ I believe that collaboration and knowledge sharing are the keys to progress. I l
   <a href="https://tailwindcss.com" target="_blank"> 
     <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&amp;logoColor=white">
   </a>
-
-<h3 id="️-devops">♾️ DevOps</h3>
-<p align="left"> 
-  <a href="https://git-scm.com/" target="_blank"> 
-    <img alt="Git" src="https://img.shields.io/badge/Git-%23F05033.svg?logo=git&amp;logoColor=white">
-  </a>
-  <a href="https://github.com/" target="_blank"> 
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&amp;logoColor=white">
-  </a>
 </p>
+
+
 
 
 </p>
@@ -113,6 +116,12 @@ I believe that collaboration and knowledge sharing are the keys to progress. I l
 <a href="https://www.office.com" target="_blank"><img alt="Microsoft Office" src="https://img.shields.io/badge/Microsoft_Office-D83B01?logo=microsoft-office&amp;logoColor=white"></a>
 <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank"><img alt="Microsoft Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?logo=microsoft-excel&amp;logoColor=white"></a>
 <a href="https://www.canva.com" target="_blank"><img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?logo=Canva&amp;logoColor=white"></a>
+  <a href="https://git-scm.com/" target="_blank"> 
+    <img alt="Git" src="https://img.shields.io/badge/Git-%23F05033.svg?logo=git&amp;logoColor=white">
+  </a>
+  <a href="https://github.com/" target="_blank"> 
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&amp;logoColor=white">
+  </a>
 </p>
 <br>
 <br>
