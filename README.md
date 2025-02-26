@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! Rawan Alghamdi  </h2>
+<h2 align="left">Hi 👋! I'm Rawan Alghamdi  </h2>
 <br>
 <br>
 <h2 id="--about-me"><img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25">  <b>About Me</b></h2>
