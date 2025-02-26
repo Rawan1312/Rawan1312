@@ -35,9 +35,10 @@ I believe that collaboration and knowledge sharing are the keys to progress. I l
   <a href="https://github.com/Rawan1312?tab=repositories&q=&type=&language=c" target="_blank"> 
     <img alt="C" src="https://img.shields.io/badge/C-%232370ED.svg?logo=c&amp;logoColor=white">
   </a> 
-  <a href="https://github.com/Rawan1312?tab=repositories&q=&type=&language=cpp" target="_blank"> 
-    <img alt="C++" src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&amp;logoColor=white">
-  </a> 
+  <a href="https://github.com/Rawan1312?tab=repositories&q=&type=&language=cpp" target="_blank">
+  <img alt="C++" src="https://img.icons8.com/?size=100&id=44328&format=png&color=000000" width="30" height="30">
+</a>
+
   <a href="https://github.com/Rawan1312?tab=repositories&q=&type=&language=java" target="_blank"> 
     <img alt="Java" src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=java&amp;logoColor=white">
   </a>
