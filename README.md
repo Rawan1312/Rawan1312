@@ -134,14 +134,13 @@ I believe that collaboration and knowledge sharing are the keys to progress. I l
 <p align="center"><!-----Social Accounts------>
 </p><p align="center">
 
- <a href="http://linkedin.com/in/rawan-alrifai-225a16316">
-  <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg" height="35" alt="LinkedIn logo" />
+<a href="http://linkedin.com/in/rawan-alrifai-225a16316">
+  <img src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000" height="35" alt="LinkedIn logo" />
 </a>
+
 <a href="mailto:rawanalrifai24@gmail.com">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail logo" />
+  <img src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" height="35" alt="gmail logo" />
 </a>
-
-
 <br>
 
 
