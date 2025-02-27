@@ -83,11 +83,12 @@ I believe that collaboration and knowledge sharing are the keys to progress. I l
   <a href="https://github.com/Rawan1312?tab=repositories&q=&type=&language=supabase" target="_blank"> 
     <img alt="Supabase" src="https://img.shields.io/badge/Supabase-%237747FF.svg?logo=supabase&amp;logoColor=white">
   </a>   
-  <a href="https://github.com/Rawan1312?tab=repositories&q=&type=&language=mysql" target="_blank"> 
-    <img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?logo=mysql&amp;logoColor=white">
-  </a>
+ <a href="https://github.com/Rawan1312?tab=repositories&q=&type=&language=mysql" target="_blank"> 
+  <img alt="MySQL" src="https://img.icons8.com/?size=100&id=UFXRpPFebwa2&format=png&color=000000" height="50">
+</a>
+
   <a href="https://github.com/Rawan1312?tab=repositories&q=&type=&language=postgresql" target="_blank">
-    <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?logo=postgresql&amp;logoColor=white">
+    <img alt="PostgreSQL" src="https://img.icons8.com/?size=100&id=38561&format=png&color=000000" height="50">
   </a>
 </p>
 
@@ -95,10 +96,10 @@ I believe that collaboration and knowledge sharing are the keys to progress. I l
 <h3 id="-ideseditors">💻 IDEs/Editors</h3>
 <p align="left"> 
   <a href="https://visualstudio.microsoft.com/" target="_blank"> 
-    <img alt="Visual Studio" src="https://img.icons8.com/?size=50&id=9OGIyU8hrxW5&format=png&color=000000">
+    <img alt="Visual Studio" src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000" height="50">
   </a>
   <a href="https://netbeans.apache.org/" target="_blank"> 
-    <img alt="NetBeans IDE" src="https://img.icons8.com/?size=50&id=4djt356tq8UO&format=png&color=000000">
+    <img alt="NetBeans IDE" src="https://img.icons8.com/?size=100&id=4djt356tq8UO&format=png&color=000000" height="50">
   </a>
   <a href="https://www.jetbrains.com/idea/" target="_blank"> 
     <img alt="IntelliJ IDEA"  src="https://img.icons8.com/?size=100&id=w1Gq29w4RQWL&format=png&color=000000" height="50">
@@ -109,13 +110,13 @@ I believe that collaboration and knowledge sharing are the keys to progress. I l
 <p>
  <a href="https://www.office.com" target="_blank">
   <img alt="Microsoft Office" src="https://img.icons8.com/?size=100&id=U31oMlwv2gFx&format=png&color=000000" height="50">
-  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank"><img alt="Microsoft Excel" src="https://img.icons8.com/?size=50&id=13654&format=png&color=000000"></a>
-  <a href="https://www.canva.com" target="_blank"><img alt="Canva" src="https://img.icons8.com/?size=50&id=iWw83PVcBpLw&format=png&color=000000"></a>
+  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank"><img alt="Microsoft Excel" src="https://img.icons8.com/?size=100&id=13654&format=png&color=000000" height="50"></a>
+  <a href="https://www.canva.com" target="_blank"><img alt="Canva" src="https://img.icons8.com/?size=100&id=iWw83PVcBpLw&format=png&color=000000" heigth="50" width="50"></a>
   <a href="https://git-scm.com/" target="_blank"> 
-    <img alt="Git" src="https://img.icons8.com/?size=50&id=20906&format=png&color=000000">
+    <img alt="Git" src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" height="50">
   </a>
   <a href="https://github.com/" target="_blank"> 
-    <img alt="GitHub" src="https://img.icons8.com/?size=50&id=v551nqGeHhGn&format=png&color=000000">
+    <img alt="GitHub" src="https://img.icons8.com/?size=100&id=v551nqGeHhGn&format=png&color=000000" height="50">
   </a>
 </p>
 
