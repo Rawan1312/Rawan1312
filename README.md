@@ -109,13 +109,13 @@ I believe that collaboration and knowledge sharing are the keys to progress. I l
 <p>
  <a href="https://www.office.com" target="_blank">
   <img alt="Microsoft Office" src="https://img.icons8.com/?size=100&id=U31oMlwv2gFx&format=png&color=000000" height="50">
-  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank"><img alt="Microsoft Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?logo=microsoft-excel&amp;logoColor=white"></a>
-  <a href="https://www.canva.com" target="_blank"><img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?logo=Canva&amp;logoColor=white"></a>
+  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank"><img alt="Microsoft Excel" src="https://img.icons8.com/?size=50&id=13654&format=png&color=000000"></a>
+  <a href="https://www.canva.com" target="_blank"><img alt="Canva" src="https://img.icons8.com/?size=50&id=iWw83PVcBpLw&format=png&color=000000"></a>
   <a href="https://git-scm.com/" target="_blank"> 
-    <img alt="Git" src="https://img.shields.io/badge/Git-%23F05033.svg?logo=git&amp;logoColor=white">
+    <img alt="Git" src="https://img.icons8.com/?size=50&id=20906&format=png&color=000000">
   </a>
   <a href="https://github.com/" target="_blank"> 
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&amp;logoColor=white">
+    <img alt="GitHub" src="https://img.icons8.com/?size=50&id=v551nqGeHhGn&format=png&color=000000">
   </a>
 </p>
 
@@ -123,7 +123,7 @@ I believe that collaboration and knowledge sharing are the keys to progress. I l
 <br>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Rawan1312&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rawan1312&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rawan1312&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="70 alt="languages graph"  />
 </div>
 
 
