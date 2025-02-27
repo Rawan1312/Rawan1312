@@ -135,11 +135,11 @@ I believe that collaboration and knowledge sharing are the keys to progress. I l
 </p><p align="center">
 
 <a href="http://linkedin.com/in/rawan-alrifai-225a16316">
-  <img src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000" height="35" alt="LinkedIn logo" />
+  <img src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000" height="70" w alt="LinkedIn logo" />
 </a>
 
 <a href="mailto:rawanalrifai24@gmail.com">
-  <img src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" height="35" alt="gmail logo" />
+  <img src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" height="70" alt="gmail logo" />
 </a>
 <br>
 
