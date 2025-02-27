@@ -95,13 +95,13 @@ I believe that collaboration and knowledge sharing are the keys to progress. I l
 <h3 id="-ideseditors">💻 IDEs/Editors</h3>
 <p align="left"> 
   <a href="https://visualstudio.microsoft.com/" target="_blank"> 
-    <img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?logo=visual-studio&amp;logoColor=white">
+    <img alt="Visual Studio" src="https://img.icons8.com/?size=50&id=9OGIyU8hrxW5&format=png&color=000000">
   </a>
   <a href="https://netbeans.apache.org/" target="_blank"> 
-    <img alt="NetBeans IDE" src="https://img.shields.io/badge/NetBeans%20IDE-1B6AC6.svg?logo=apache-netbeans-ide&amp;logoColor=white">
+    <img alt="NetBeans IDE" src="https://img.icons8.com/?size=50&id=4djt356tq8UO&format=png&color=000000">
   </a>
   <a href="https://www.jetbrains.com/idea/" target="_blank"> 
-    <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?logo=intellij-idea&amp;logoColor=white">
+    <img alt="IntelliJ IDEA"  src="https://img.icons8.com/?size=100&id=w1Gq29w4RQWL&format=png&color=000000" height="50">
   </a>
 </p>
 
